@@ -1,14 +1,17 @@
 Package: transGFM
 Type: Package
 Title: Transfer Learning for Generalized Factor Models
-Version: 1.0.1
+Version: 1.0.2
 Date: 2025-11-10
-Authors@R: person("Zhijing", "Wang", 
-                  email = "wangzhijing@sjtu.edu.cn",
-                  role = c("aut", "cre"))
+Authors@R: c(person("Zhijing", "Wang", email = "wangzhijing@sjtu.edu.cn", role = c("aut", "cre")),
+             person("Peirong", "Xu", role = "aut"),
+             person("Hongyu", "Zhao", role = "aut"),
+             person("Tao", "Wang", role = "aut"))
 Maintainer: Zhijing Wang <wangzhijing@sjtu.edu.cn>
 Description: Transfer learning for generalized factor models with support for continuous, count (Poisson), and binary data types. The package provides functions for single and multiple source transfer learning, source detection to identify positive and negative transfer sources, factor decomposition using Maximum Likelihood Estimation (MLE), and information criteria ('IC1' and 'IC2') for rank selection. The methods are particularly useful for high-dimensional data analysis where auxiliary information from related source datasets can improve estimation efficiency in the target domain.
 License: GPL-3
+URL: https://github.com/zjwangATsu/transGFM
+BugReports: https://github.com/zjwangATsu/transGFM/issues
 Encoding: UTF-8
 LazyData: true
 Depends: 
@@ -20,3 +23,4 @@ Suggests:
     knitr,
     rmarkdown
 RoxygenNote: 7.3.2
+
