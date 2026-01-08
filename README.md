@@ -345,10 +345,10 @@ The related papers are currently under review. We will update the citation infor
 
 ## Authors
 
-* Zhijing Wang (Creator & Maintainer)
-* Peirong Xu
-* Hongyu Zhao
-* Tao Wang
+* Zhijing Wang (Creator & Maintainer， SJTU)
+* Peirong Xu (SJTU)
+* Hongyu Zhao (Yale)
+* Tao Wang (SJTU)
 
 ## Bug Reports and Issues
 
