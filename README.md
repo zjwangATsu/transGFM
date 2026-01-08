@@ -343,11 +343,12 @@ The transfer learning framework can significantly improve estimation accuracy wh
 
 The related papers are currently under review. We will update the citation information once they are published.
 
-## Author
+## Authors
 
-**Zhijing Wang**  
-Shanghai Jiao Tong University (SJTU)  
-Email: wangzhijing@sjtu.edu.cn
+* Zhijing Wang (Creator & Maintainer)
+* Peirong Xu
+* Hongyu Zhao
+* Tao Wang
 
 ## Bug Reports and Issues
 
