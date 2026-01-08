@@ -2,7 +2,7 @@ Package: transGFM
 Type: Package
 Title: Transfer Learning for Generalized Factor Models
 Version: 1.0.2
-Date: 2025-11-10
+Date: 2026-01-08
 Authors@R: c(person("Zhijing", "Wang", email = "wangzhijing@sjtu.edu.cn", role = c("aut", "cre")),
              person("Peirong", "Xu", role = "aut"),
              person("Hongyu", "Zhao", role = "aut"),
